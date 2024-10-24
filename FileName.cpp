@@ -4,7 +4,7 @@
 void main()
 
 {
-    int Temperatura, converter , escolher ;
+    float Temperatura, converter , escolher ;
     char Tipo;
     setlocale(LC_ALL, "Portuguese");
 	std::cout << "Diz-me para converter em  C ou F";
